@@ -1,0 +1,59 @@
+.main-title {
+  padding-top: 13px;
+  text-align: center;
+  font-size: 80px;
+  font-family: 'Pacifico';
+  font-weight: 600;
+  color: #FFFFFF;
+}
+
+.interval-title {
+  padding-top: 33px;
+  text-align: center;
+  font-size: 14px;
+  font-family: 'arial narrow';
+  color: #FFFFFF;
+}
+
+.numbers {
+  padding-top: 0px;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'arial';
+  color: #FFFFFF;
+  background-color: #333333;
+}
+
+button {
+  background-color: #333333;
+  border: none;
+  outline: none;
+}
+
+.timer {
+  margin-top: 20px;
+  margin-left: 27px;
+  margin-right: 27px;
+  padding-top: 50px;
+  height: 300px;
+  border-radius: 50%;
+  border: 2px solid #99CC00;
+  font-size: 40px;
+  font-family: 'arial';
+  color: #FFFFFF;
+  text-align: center;
+  
+}
+
+.timer p {
+  padding-top: 25px;
+}
+
+.buttons2 {
+  padding-top: 50px;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'arial';
+  color: #FFFFFF;
+  background-color: #333333;
+}
